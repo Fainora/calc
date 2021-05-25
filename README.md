@@ -1,1 +1,1 @@
-# Projects-GGPI
+A simple VueJS calculator
